@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Potato_disease_classification Example:
 
-![ Alt text](demo. gif) / ! [](demo. gif)
+![](demo.gif)
